@@ -10,4 +10,4 @@ About A paper list of  Knowledge-Distillation(processing).
 ## Datasets
 
 ## Paper list
-* **[LD]** Zhaohui Zheng,et al. (2021). Localization Distillation for Object Detection. Computer Vision and Pattern Recognition (cs.CV) [paper](https://arxiv.org/abs/2102.12252v2) [code](https://github.com/HikariTJU/LD)
+* **[LD]** Zhaohui Zheng,et al. (2021). Localization Distillation for Object Detection. Computer Vision and Pattern Recognition (cs.CV) [[paper]](https://arxiv.org/abs/2102.12252v2) [[code]](https://github.com/HikariTJU/LD)
