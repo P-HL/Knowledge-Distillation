@@ -25,12 +25,12 @@ About A paper list of  Knowledge-Distillation(processing).
 * (arXiv 2021.08) Channel-wise Knowledge Distillation for Dense Prediction. [[paper]](https://arxiv.org/abs/2011.13256) [[code]](https://github.com/irfanICMLL/TorchDistiller/tree/main/SemSeg-distill)
 * (arXiv 2021.09) Deep Structured Instance Graph for Distilling Object Detectors. [[paper]](https://arxiv.org/abs/2109.12862) [[code]](https://github.com/dvlab-research/Dsig)
 * (arXiv 2021.10) Comprehensive Attention Self-Distillation for Weakly-Supervised Object Detection.  [[paper]](https://arxiv.org/abs/2010.12023)
-* (arXiv 2021.10) Improving Object Detection by Label Assignment Distillation  --v3. [[paper]](https://arxiv.org/abs/2108.10520v3) [[code]](https://github.com/cybercore-co-ltd/CoLAD)
+* (arXiv 2021.10) Improving Object Detection by Label Assignment Distillation  --v3. [[paper]](https://arxiv.org/abs/2108.10520v3) [[code]](https://github.com/cybercore-co-ltd/CoLAD)  
 
 
 
 
-* (cvpr 2021) Multi-Scale Aligned Distillation for Low-Resolution Detection. [[paper]](https://jiaya.me/papers/ms_align_distill_cvpr21.pdf) [[code]](https://github.com/Jia-Research-Lab/MSAD)
+* (cvpr 2021) Multi-Scale Aligned Distillation for Low-Resolution Detection. [[paper]](https://jiaya.me/papers/ms_align_distill_cvpr21.pdf) [[code]](https://github.com/Jia-Research-Lab/MSAD)  
 
 
 
@@ -39,8 +39,13 @@ About A paper list of  Knowledge-Distillation(processing).
 
 
 
-**From pan**
+**From pan**    
 
 
+
+
+# Contact & Feedback
+If you have any suggestions about this project, feel free to contact me.
+* [e-mail: hlp@hbut.edu.cn]
 
 
