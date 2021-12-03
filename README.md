@@ -21,8 +21,8 @@ About A paper list of  Knowledge-Distillation(processing).
 **From zhang**
 * (arXiv 2019.06) Distilling Object Detectors with Fine-grained Feature Imitation. [[paper]](https://arxiv.org/abs/1906.03609v1) [[code]](https://github.com/twangnh/Distilling-Object-Detectors)
 * (arXiv 2020.05) Squeezed Deep 6DoF Object Detection Using Knowledge Distillation  --v3. [[paper]](https://arxiv.org/abs/2003.13586) [[code]](https://github.com/heitorcfelix/singleshot6Dpose)
-* (arXiv 2020.06) **[SKD]** Structured Knowledge Distillation for Dense Prediction. [[paper]](https://arxiv.org/abs/1903.04197v4) [[code]](https://git.io/StructKD)
-* (arXiv 2021.02) **[LD]** Localization Distillation for Object Detection. [[paper]](https://arxiv.org/abs/2102.12252v2) [[code]](https://github.com/HikariTJU/LD)
+* (arXiv 2020.06) Structured Knowledge Distillation for Dense Prediction. [[paper]](https://arxiv.org/abs/1903.04197v4) [[code]](https://git.io/StructKD)
+* (arXiv 2021.02) Localization Distillation for Object Detection. [[paper]](https://arxiv.org/abs/2102.12252v2) [[code]](https://github.com/HikariTJU/LD)
 * (arXiv 2021.03) Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection. [[paper]](https://arxiv.org/abs/2103.17115) [[code]](https://github.com/hzhupku/DCNet)
 * (arXiv 2021.03) Distilling Object Detectors via Decoupled Features. [[paper]](https://arxiv.org/abs/2103.14475v1) [[code]](https://github.com/ggjy/DeFeat.pytorch)
 * (arXiv 2021.03) Robust and Accurate Object Detection via Adversarial Learning  --v2. [[paper]](https://arxiv.org/abs/2103.13886) [[model]](https://arxiv.org/abs/2103.13886)
