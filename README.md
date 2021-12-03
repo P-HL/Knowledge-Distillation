@@ -30,7 +30,7 @@ About A paper list of  Knowledge-Distillation(processing).
 
 
 
-* 1. (cvpr 2021) Multi-Scale Aligned Distillation for Low-Resolution Detection. [[paper]](https://jiaya.me/papers/ms_align_distill_cvpr21.pdf) [[code]](https://github.com/Jia-Research-Lab/MSAD)
+* (cvpr 2021) Multi-Scale Aligned Distillation for Low-Resolution Detection. [[paper]](https://jiaya.me/papers/ms_align_distill_cvpr21.pdf) [[code]](https://github.com/Jia-Research-Lab/MSAD)
 
 
 
