@@ -35,7 +35,7 @@ Last updated: 2021/12/03
 * (arXiv 2021.09) [**Dsig**] Deep Structured Instance Graph for Distilling Object Detectors. [[paper]](https://arxiv.org/abs/2109.12862) [[code]](https://github.com/dvlab-research/Dsig)
 * (arXiv 2021.10) Comprehensive Attention Self-Distillation for Weakly-Supervised Object Detection.  [[paper]](https://arxiv.org/abs/2010.12023)
 * (arXiv 2021.10) [**CoLAD**] Improving Object Detection by Label Assignment Distillation  --v3. [[paper]](https://arxiv.org/abs/2108.10520v3) [[code]](https://github.com/cybercore-co-ltd/CoLAD)  
-
+* (arXiv 2020.06) [**GFocal**] Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection. [[paper]](https://arxiv.org/abs/2006.04388) [[code]](https://github.com/implus/GFocal)  
 
 
 ### **From pan**
